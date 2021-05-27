@@ -1,0 +1,27 @@
+using System;
+
+namespace Exercicios_POO.Classes
+{
+    public class ElevadorServico : Elevador
+    {
+        private int CaixasDentro;
+
+        public void AlteraCaixas() {
+            bool isInt;
+            int caixas;
+            do
+            {
+                Console.WriteLine("Há quantas caixas no elevador? ");
+                string caixasStr = Console.ReadLine();
+                isInt = int.TryParse(caixasStr, out caixas);
+                
+                if (isInt) 
+                {
+                    caixas = int.Parse(caixasStr);
+                    CaixasDentro = caixas;
+                }
+                else Console.WriteLine("Digite apenas números positivos");
+            } while (!isInt && caixas >= 0);   
+        }
+    }
+}
