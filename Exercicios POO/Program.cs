@@ -45,7 +45,7 @@ namespace Exercicios_POO
                             string acaoElevador = "";
                             while (acaoElevador != "0")
                             {
-                                Console.WriteLine("O que você deseja fazer?");
+                                Console.WriteLine("\nO que você deseja fazer?");
                                 Console.WriteLine("Subir [1]\nDescer [2]\nEntrar no elevador [3]\nSair do elevador [4]");
                                 Console.WriteLine("Fechar [0]");
                                 acaoElevador = Console.ReadLine();
@@ -65,6 +65,7 @@ namespace Exercicios_POO
                                         break;
                                     case "0":
                                         Console.WriteLine("Você saiu fechou o sistema desse elevador");
+                                        opcaoValida = true;
                                         break;
                                     default:
                                         Console.WriteLine("\nOpção invalida.");
@@ -102,6 +103,7 @@ namespace Exercicios_POO
                                         break;
                                     case "0":
                                         Console.WriteLine("Você saiu fechou o sistema desse elevador");
+                                        opcaoValida = true;
                                         break;
                                     default:
                                         Console.WriteLine("\nOpção invalida.");

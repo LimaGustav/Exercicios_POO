@@ -21,7 +21,8 @@ namespace Exercicios_POO.Classes
                     CaixasDentro = caixas;
                 }
                 else Console.WriteLine("Digite apenas números positivos");
-            } while (!isInt && caixas >= 0);   
+            } while (!isInt && caixas >= 0); 
+            Console.WriteLine($"Há {CaixasDentro} caixas dentro do elevador");  
         }
     }
 }
