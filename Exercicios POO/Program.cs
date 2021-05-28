@@ -17,7 +17,7 @@ namespace Exercicios_POO
 
                 do
                 {
-                    Console.WriteLine("O que você deseja fazer?");
+                    Console.WriteLine("\nO que você deseja fazer?\n");
                     Console.Write("Inicializar [1]\nFechar [0]\n-> ");
                     string opcaoStr = Console.ReadLine();
                     isInt = int.TryParse(opcaoStr, out opcao);

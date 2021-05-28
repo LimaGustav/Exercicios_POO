@@ -22,7 +22,7 @@ namespace Exercicios_POO.Classes
                 }
                 else Console.WriteLine("Digite apenas números positivos");
             } while (!isInt && caixas >= 0); 
-            Console.WriteLine($"Há {CaixasDentro} caixas dentro do elevador");  
+            Console.WriteLine($"\nHá {CaixasDentro} caixas dentro do elevador\n");  
         }
     }
 }
