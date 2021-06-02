@@ -10,6 +10,7 @@ namespace ExercicioPOO_3
             MaquinaCafe CafeteiraTabajarasPlus = new MaquinaCafe();
             bool isDouble = false;
             double acucarMaq;
+            bool check = false;
             do
             {
                 Console.Write("Há quantas gramas de açucar disponível na cafeteira? ");
@@ -31,12 +32,11 @@ namespace ExercicioPOO_3
 
             string maisCafe;
             bool opcaoValida = true;
-            do
-            {
+            while (!check) {
                 Console.WriteLine($"\nTemos {CafeteiraTabajarasPlus.AcucarDisponivel} gramas de açucar disponivel\n\n");
                 do
                 {
-                    Console.Write("\t\tVocê deseja\n\nCafé padrão [1]\nEscolher a quantidade de açucar no seu café [2]\nCafé sem açucar [3]\n-> ");
+                    Console.Write("\t\tVocê deseja\n\nCafé padrão [1]\nEscolher a quantidade de açucar no seu café [2]\nCafé sem açucar [3]\nDesligar a maquina [4]-> ");
                     string opcao = Console.ReadLine();
                     
                     switch (opcao)
@@ -54,6 +54,9 @@ namespace ExercicioPOO_3
                         case "3":
                             Console.WriteLine("\nO seu café sem açucar está pronto.");
                             break;
+                        case "4":
+                            check = true; // Sai do programa
+                            break;
                         default:
                             Console.WriteLine("\t\tOpção invalida\n");
                             opcaoValida = false;
@@ -69,7 +72,10 @@ namespace ExercicioPOO_3
                     if (maisCafe == "n" || maisCafe == "s") opcMaisCafe = false;
                     else Console.WriteLine("Opção invalida. Tente novamente.");
                 } while (opcMaisCafe);
-            } while (maisCafe != "n");
+                if (maisCafe == "n") {
+                    check = true;
+                }
+            }
             Console.WriteLine("Obrigado por usar a CafeteiraTabajaras Plus++");
         }
     }

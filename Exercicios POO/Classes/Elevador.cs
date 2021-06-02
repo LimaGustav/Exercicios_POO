@@ -4,13 +4,13 @@ namespace Exercicios_POO.Classes
 {
     public abstract class Elevador
     {
-        protected int AndarAtual;
+        private int AndarAtual;
 
-        protected int TotalAndares;
+        private int TotalAndares;
 
-        protected int Capacidade;
+        private int Capacidade;
 
-        protected int PessoasPresentes;
+        private int PessoasPresentes;
 
         public void Inicializar()
         {
