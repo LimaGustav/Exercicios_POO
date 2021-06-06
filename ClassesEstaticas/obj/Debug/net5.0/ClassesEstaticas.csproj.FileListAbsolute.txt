@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.exe
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.deps.json
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.dll
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ref\ClassesEstaticas.dll
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.pdb
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.dll
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ref\ClassesEstaticas.dll
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.pdb
+C:\Users\Jhonatan\Desktop\POO\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.exe
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.deps.json
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.dll
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\ref\MetodosConstrutores.dll
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.pdb
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.dll
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\ref\MetodosConstrutores.dll
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.pdb
+C:\Users\Jhonatan\Desktop\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.genruntimeconfig.cache

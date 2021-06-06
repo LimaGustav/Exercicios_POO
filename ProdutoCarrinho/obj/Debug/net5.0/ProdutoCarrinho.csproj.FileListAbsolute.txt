@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.exe
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.deps.json
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.dll
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ref\ProdutoCarrinho.dll
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\bin\Debug\net5.0\ProdutoCarrinho.pdb
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.dll
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ref\ProdutoCarrinho.dll
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.pdb
+C:\Users\Jhonatan\Desktop\POO\ProdutoCarrinho\obj\Debug\net5.0\ProdutoCarrinho.genruntimeconfig.cache
